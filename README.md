@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EX--1
 # EX:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
-Name : Kurapati Vishnu Vardhan Reddy
+Name : AJAYPRABU 
 
-Reg NO : 212223040103
+Reg NO : 212225220005
 
 # Aim:
 To implement and demonstrate various material effects in Unreal Engine, including emissive, roughness, and metallic properties, using the Material Editor.
